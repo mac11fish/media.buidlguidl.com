@@ -1,11 +1,8 @@
 # 📺 BG Media Cohort
 
 We're running an experiment to fund focused, high-leverage open-source work by providing streams to builders rewarding them for their ongoing contributions to BuidlGuidl and the Ethereum Ecosystem.
-
 Our emphasis is on quality over quantity, striving for well-crafted products. Our approach embraces iteration, refining our builds while fostering a culture of continuous learning and improvement.
-
 This initiative is made possible by BuidlGuidl!
-
 Read more at the [F.A.Q](https://media.buidlguidl.com/faq)
 
 ---
